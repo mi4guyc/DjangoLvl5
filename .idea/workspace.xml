@@ -153,8 +153,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="885" />
-    <option name="y" value="93" />
+    <option name="x" value="168" />
+    <option name="y" value="54" />
     <option name="width" value="1827" />
     <option name="height" value="1136" />
   </component>
@@ -239,7 +239,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -288,7 +288,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Phil\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -302,7 +302,7 @@
       <workItem from="1545773397693" duration="439000" />
       <workItem from="1545773904865" duration="128000" />
       <workItem from="1545774052473" duration="7537000" />
-      <workItem from="1545791730318" duration="6338000" />
+      <workItem from="1545791730318" duration="7565000" />
     </task>
     <task id="LOCAL-00001" summary="Added Space to test commit">
       <created>1545811824139</created>
@@ -311,17 +311,24 @@
       <option name="project" value="LOCAL" />
       <updated>1545811824139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Space to test commit">
+      <created>1545812263564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545812263564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21533000" />
+    <option name="totallyTimeSpent" value="22760000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="885" y="93" width="1827" height="1136" extended-state="0" />
+    <frame x="-4" y="76" width="1827" height="1136" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.756315" visible="true" weight="0.22014715" />
-      <window_info id="Structure" order="1" sideWeight="0.24368499" side_tool="true" visible="true" weight="0.22014715" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7548872" visible="true" weight="0.22014715" />
+      <window_info id="Structure" order="1" sideWeight="0.24511278" side_tool="true" visible="true" weight="0.22014715" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32993776" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,10 +339,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32901296" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32901296" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.499226" weight="0.33698905" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.499226" visible="true" weight="0.33698905" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50077397" side_tool="true" weight="0.32932073" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
